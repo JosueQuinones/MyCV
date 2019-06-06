@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  MyCV
+
+  Created by Josue Emanuel Quinones Rivera on 6/3/19.
+  Copyright © 2019 Globant. All rights reserved.
+*/
+
+/*Main Screen title*/
+"mainScreenTitle" = "THIS IS ME 🖥";
+
+/*More info titles*/
+"technical" = "Technical Skills";
+"soft" = "Soft Skills";
+"hobbies" = "Hobbies";
+
+/*Table view sections*/
+"programming_languages" = "Languages";
+"technologies" = "Technologies";
+"dbms" = "DBMS";
+
+/*Alert messages*/
+"fetch_error" = "An error has ocurred with the data";
